@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "541EF11F-E5D2-4DB7-B84C-7129A02B0FE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 52,
+    "x": 336,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Institution",
+  "nameIsFixed": true,
+  "originalObjectID": "541EF11F-E5D2-4DB7-B84C-7129A02B0FE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E475F4A9-3A6E-4FA8-A614-D60DA4FB2A0F",
+      "overrideName": "E6827D6D-9213-49F8-8ED0-57E63BCADD1D_stringValue",
+      "value": "Inst."
+    }
+  ],
+  "overrides": {
+    "E6827D6D-9213-49F8-8ED0-57E63BCADD1D": "Inst."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DA5B1298-9418-498F-90A3-F4287E0B2EB0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

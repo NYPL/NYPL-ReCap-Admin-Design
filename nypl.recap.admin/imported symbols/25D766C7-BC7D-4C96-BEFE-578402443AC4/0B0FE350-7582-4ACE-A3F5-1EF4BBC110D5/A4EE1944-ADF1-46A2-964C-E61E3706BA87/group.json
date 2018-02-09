@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "A4EE1944-ADF1-46A2-964C-E61E3706BA87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 140,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BDF59550-5795-48D8-91C4-63948CF8DE9E"
+    },
+    {
+      "class": "group",
+      "id": "958899A6-F40D-4503-8B44-31ECA823EF31"
+    }
+  ],
+  "name": "Date Time Text Box",
+  "nameIsFixed": true,
+  "originalObjectID": "A4EE1944-ADF1-46A2-964C-E61E3706BA87",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

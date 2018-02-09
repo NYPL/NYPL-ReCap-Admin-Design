@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "BDF59550-5795-48D8-91C4-63948CF8DE9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 39,
+    "x": 101,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2BA84E1-B994-480F-BFD4-EBBDB0A8188A"
+    },
+    {
+      "class": "text",
+      "id": "F3C7A96E-949C-445C-8F6A-77F4AF68463D"
+    }
+  ],
+  "name": "Calendar Button",
+  "nameIsFixed": true,
+  "originalObjectID": "BDF59550-5795-48D8-91C4-63948CF8DE9E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

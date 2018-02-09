@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "785E82D0-D9F2-4B8E-A158-6C4059CA325A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 480,
+    "x": 0,
+    "y": 53
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 70,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "TEMP - SI - form - text field with prompt Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "1E888FA7-C90A-4364-8E82-58FE9810461D",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4583AC9A-CA1B-4BF2-B809-593EF8679F8F/B54E6A02-2168-4E1F-B149-146AB6258E8A/BD756B79-98A0-4A09-9A07-27797C76528F_stringValue",
+      "value": "Enter a single barcode"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C1D6C3B1-C24A-4128-9B78-5631AB42B710_stringValue",
+      "value": "Barcode"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88D56818-D4DF-4EE9-A04E-C4E16A7427D9/BD756B79-98A0-4A09-9A07-27797C76528F_stringValue",
+      "value": "Make sure the item is available in SCSB first."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9CFA50D-9D30-4384-A416-AACD730A64BC/32016E19-C0F5-42EF-928E-42D976E43C5E_stringValue",
+      "value": "Barcode"
+    }
+  ],
+  "overrides": {
+    "4583AC9A-CA1B-4BF2-B809-593EF8679F8F": {
+      "B54E6A02-2168-4E1F-B149-146AB6258E8A": {
+        "BD756B79-98A0-4A09-9A07-27797C76528F": "Enter a single barcode"
+      }
+    },
+    "88D56818-D4DF-4EE9-A04E-C4E16A7427D9": {
+      "BD756B79-98A0-4A09-9A07-27797C76528F": "Make sure the item is available in SCSB first."
+    },
+    "C1D6C3B1-C24A-4128-9B78-5631AB42B710": "Barcode",
+    "C9CFA50D-9D30-4384-A416-AACD730A64BC": {
+      "32016E19-C0F5-42EF-928E-42D976E43C5E": "Barcode"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "87285F7E-DA17-45EC-8107-13F9B1506D74",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

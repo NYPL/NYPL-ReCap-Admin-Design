@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3F9E8BCE-6201-4150-B8AC-8D820B16B09E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 87,
+    "x": 424,
+    "y": 546
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "buttons / basic button with icon copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E6B62DF7-B837-480C-9172-C51900F3BCAA/9572641E-E6C2-4B5B-929E-E75C9F821C04_stringValue",
+      "value": "Submit"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D97D491D-421B-48BA-B107-8BEC24251D03_symbolID",
+      "value": "0B9FB859-F42D-4BD0-80A7-C78F0280D51D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E70C443A-89D4-46F0-B3C2-627DBD2DBA8F_symbolID",
+      "value": "1F4D0E72-6675-40D7-9609-60D2921AF425"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E70C443A-89D4-46F0-B3C2-627DBD2DBA8F/290A0948-16A6-4539-88D2-E846D5600AAB_symbolID",
+      "value": "75501D10-DEEE-4BD1-9DF5-21D07998DEC4"
+    }
+  ],
+  "overrides": {
+    "D97D491D-421B-48BA-B107-8BEC24251D03": {
+      "symbolID": "0B9FB859-F42D-4BD0-80A7-C78F0280D51D"
+    },
+    "E6B62DF7-B837-480C-9172-C51900F3BCAA": {
+      "9572641E-E6C2-4B5B-929E-E75C9F821C04": "Submit"
+    },
+    "E70C443A-89D4-46F0-B3C2-627DBD2DBA8F": {
+      "290A0948-16A6-4539-88D2-E846D5600AAB": {
+        "symbolID": "75501D10-DEEE-4BD1-9DF5-21D07998DEC4"
+      },
+      "symbolID": "1F4D0E72-6675-40D7-9609-60D2921AF425"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1FE5BF3-2302-484A-B21B-799F35D37181",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "88D56818-D4DF-4EE9-A04E-C4E16A7427D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 270,
+    "x": 97,
+    "y": 27
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "TEMP - SI - FE-  Prompt Copy 4",
+  "nameIsFixed": true,
+  "originalObjectID": "88D56818-D4DF-4EE9-A04E-C4E16A7427D9",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD756B79-98A0-4A09-9A07-27797C76528F_stringValue",
+      "value": "Prompt/Instruction Text"
+    }
+  ],
+  "overrides": {
+    "BD756B79-98A0-4A09-9A07-27797C76528F": "Prompt/Instruction Text"
+  },
+  "resizingConstraint": 29,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E403D0B4-EC6C-4BCB-9B96-3FCD67D92E39",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

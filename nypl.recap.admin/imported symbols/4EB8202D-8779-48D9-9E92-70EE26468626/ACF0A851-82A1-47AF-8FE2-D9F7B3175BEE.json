@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ACF0A851-82A1-47AF-8FE2-D9F7B3175BEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 47,
+    "x": 433,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "SCSB Error",
+  "nameIsFixed": true,
+  "originalObjectID": "ACF0A851-82A1-47AF-8FE2-D9F7B3175BEE",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3618D14-9321-4FC0-AD1C-5D3127C2FC4F",
+      "overrideName": "E6827D6D-9213-49F8-8ED0-57E63BCADD1D_stringValue",
+      "value": "SCSB"
+    }
+  ],
+  "overrides": {
+    "E6827D6D-9213-49F8-8ED0-57E63BCADD1D": "SCSB"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DA5B1298-9418-498F-90A3-F4287E0B2EB0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

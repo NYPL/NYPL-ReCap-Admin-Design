@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2677FDB4-C314-457F-86C5-1D5627BFEA05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 184,
+    "x": 91,
+    "y": 56
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Scuzbuster Logo lockup Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFDB5811-755C-4372-8CC6-E944D6AD48C6",
+      "overrideName": "12EF9BA9-629E-4CB5-B71D-B1C3249CE5BD/56E49EFD-B7DC-4302-B8C4-843B4E8752F2_symbolID",
+      "value": "1622AE20-3070-4FDE-807D-E83EA5C31F41"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66243978-E6DC-4F39-ACFE-8DC4B0502C65",
+      "overrideName": "CEF57F77-C096-4107-B6B8-B9D6F1B0A6ED_symbolID",
+      "value": "746CE5CA-6819-4E33-8A69-ACFD3CD8CB5A"
+    }
+  ],
+  "overrides": {
+    "12EF9BA9-629E-4CB5-B71D-B1C3249CE5BD": {
+      "56E49EFD-B7DC-4302-B8C4-843B4E8752F2": {
+        "symbolID": "1622AE20-3070-4FDE-807D-E83EA5C31F41"
+      }
+    },
+    "CEF57F77-C096-4107-B6B8-B9D6F1B0A6ED": {
+      "symbolID": "746CE5CA-6819-4E33-8A69-ACFD3CD8CB5A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B368EF4F-08E5-41F4-A0A9-3C18746EC9A6",
+  "verticalSpacing": 0
+}

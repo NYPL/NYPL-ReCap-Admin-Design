@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "400F6FE5-DB24-43DA-BC3A-CEB8DA0534C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 143,
+    "x": 53,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Barcode",
+  "nameIsFixed": true,
+  "originalObjectID": "400F6FE5-DB24-43DA-BC3A-CEB8DA0534C0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2D4614C-7B55-4EC0-BDFB-E61A8B2C17DD",
+      "overrideName": "B623B154-FFDB-49AD-ADBD-5928656F9B06/ECE2269D-8B9A-4AB0-AAE0-490ED46D42D2_stringValue",
+      "value": "Barcode"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DC8661D-3FFB-40A4-BD52-6F770795ED66",
+      "overrideName": "E6827D6D-9213-49F8-8ED0-57E63BCADD1D_stringValue",
+      "value": "Barcode"
+    }
+  ],
+  "overrides": {
+    "B623B154-FFDB-49AD-ADBD-5928656F9B06": {
+      "ECE2269D-8B9A-4AB0-AAE0-490ED46D42D2": "Barcode"
+    },
+    "E6827D6D-9213-49F8-8ED0-57E63BCADD1D": "Barcode"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DA5B1298-9418-498F-90A3-F4287E0B2EB0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
